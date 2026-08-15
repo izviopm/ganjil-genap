@@ -7,16 +7,20 @@ Dibuat dengan **Next.js** (TypeScript + React), berisi **8 cara berbeda** untuk 
 - Kode sumber cara-caranya: [`lib/parity.ts`](./lib/parity.ts)
 - Tampilan web (input + hasil): [`app/page.tsx`](./app/page.tsx)
 - Repo: https://github.com/izviopm/ganjil-genap
-- Live demo: di-deploy otomatis via Vercel dari branch `main`
+- **Live demo: https://ganjil-genap-six.vercel.app/** (di-deploy otomatis via Vercel dari branch `main`)
 
-## Cara menjalankan secara lokal
+## Cara mencoba
+
+Buka langsung **[ganjil-genap-six.vercel.app](https://ganjil-genap-six.vercel.app/)**, masukkan sebuah bilangan bulat, lalu semua metode di bawah akan langsung menghitung dan menampilkan hasilnya.
+
+Atau jalankan secara lokal:
 
 ```bash
 npm install
 npm run dev
 ```
 
-Buka [http://localhost:3000](http://localhost:3000), masukkan sebuah bilangan bulat, lalu semua metode di bawah akan langsung menghitung dan menampilkan hasilnya.
+lalu buka [http://localhost:3000](http://localhost:3000).
 
 ## Penjelasan 8 Cara
 
